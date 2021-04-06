@@ -25,7 +25,7 @@ We first visualized number of fares per month using different charts. We noticed
 ![fig5.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 * The percent of total rides. Total rides of urban cities is also higher, which is %68.4.
-![]()
+![fig6.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 * The percent of total drivers. Total drivers is higher in urban cities, which is %86.7.
 ![]()
