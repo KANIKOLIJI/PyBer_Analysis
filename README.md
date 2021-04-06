@@ -28,7 +28,7 @@ We first visualized number of fares per month using different charts. We noticed
 ![fig6.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 * The percent of total drivers. Total drivers is higher in urban cities, which is %86.7.
-![]()
+![fig7.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 ## Summary
 
