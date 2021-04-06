@@ -10,13 +10,14 @@ We first visualized number of fares per month using different charts. We noticed
 
 * Create a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban, suburban, and rural. As it is shown by the bubble chart, driver count is Urban cities is higher than suburban cities, which is higher that rural cities. We can say that in urban ciries the average of fares is lower and total number of rides is higher.
 * Determine the mean, median, and mode for the following that can be found in PyBer challenge codes:
-** The total number of rides for each city type.
-** The average fares for each city type.
-** The total number of drivers for each city type.
+* The total number of rides for each city type.
+* The average fares for each city type.
+* The total number of drivers for each city type.
 * Create box-and-whisker plots that visualize each of the following to determine if there are any outliers:
 * The number of rides for each city type.
 * The fares for each city type.
 * The number of drivers for each city type. After doing all, we noticed that there is no outliers in our data.
+![fig2.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig2.png)
 * Create a pie chart that visualizes each of the following data for each city type:
 * The percent of total fares. Total fares for urban cities is higher than suburban, and rural, which is %62.7.
 ![fig5.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig5.png)
