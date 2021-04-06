@@ -32,3 +32,4 @@ We first visualized number of fares per month using different charts. We noticed
 The number of drivers in rural cities is 4-9 times less that suburban and urban cities, so the average for rides is higher in rural cities.
 After doing the analysis, the last line chart that is showing data for all 3 different city types, indicating that the number of fares in Urban cities is higher than suburban cities that is higher than rural cities, because the number of drivers is higher in those city types. Please refer below for details of the result: 
 ![PyBer_fare_summary.png](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![fig1](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/Fig1.png)
