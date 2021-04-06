@@ -22,9 +22,13 @@ We first visualized number of fares per month using different charts. We noticed
 * The number of drivers for each city type. After doing all, we noticed that there is no outliers in our data.
 * Create a pie chart that visualizes each of the following data for each city type:
 * The percent of total fares. Total fares for urban cities is higher than suburban, and rural, which is %62.7.
-* The percent of total rides. Total rides of urban cities is also higher, which is %68.4.
-* The percent of total drivers. Total drivers is higher in urban cities, which is %86.7.
+![]()
 
+* The percent of total rides. Total rides of urban cities is also higher, which is %68.4.
+![]()
+
+* The percent of total drivers. Total drivers is higher in urban cities, which is %86.7.
+![]()
 
 ## Summary
 
