@@ -34,3 +34,4 @@ We first visualized number of fares per month using different charts. We noticed
 
 The number of drivers in rural cities is 4-9 times less that suburban and urban cities, so the average for rides is higher in rural cities.
 After doing the analysis, the pie charts show that in cities that have more drivers, the fare price is lower as there are more options available and maybe there is competition.
+![](https://github.com/KANIKOLIJI/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
